@@ -16,4 +16,4 @@ def somma(a, b):
     """
     if isinstance(a, str) or isinstance(b, str):
         raise ValueError("Impossibile sommare stringhe con numeri")
-    return a + b
+    return a - b
