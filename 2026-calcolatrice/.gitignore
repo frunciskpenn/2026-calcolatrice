@@ -1,9 +1,0 @@
-# ignora i file python temporanei 
-*.pyc
-__pycache__/
-# ignora i file di log
-*.log
-# ignora i file di configurazione locali
-config.ini
-
-
